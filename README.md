@@ -8,11 +8,11 @@ This repository contains a Python-based automation framework for testing both we
    cd QA-AUTOMATION-PROJECT
    
 # Project Structure
-api/ - All API tests
-tests/ -All UI test files
-config/ -Settings file contains all global settings and variables
-confest/ -All pytest fixtures
-pages/ -All page object locators and functions
+1. api/ - All API tests
+2. config/ -Settings file contains all global settings and variables and __init__ file allow to import as a package.      
+4. pages/ -All page object locators and functions
+5. tests/ -All UI test files
+6. confest/ -All pytest fixtures
    
 # Install Dependencies
 1. install python 3
