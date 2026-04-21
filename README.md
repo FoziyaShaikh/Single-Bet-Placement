@@ -22,3 +22,4 @@ This repository contains a Python-based automation framework for testing both we
 # Running tests
 1. pytest - to run all tests
 2. pytest tests/test_single_bet.py - to run single test
+3. pytest -s api/test_place_bet_api_validation.py - to see the print statement for results
