@@ -1,4 +1,4 @@
-# Single-Bet-Automation
+# Single-Bet-Placement
 Single Bet Placement is a sports betting web application that allows users to place a single wager on the outcome of a sporting event. 
 This repository contains a Python-based automation framework for testing both web UI and API modules.
 
